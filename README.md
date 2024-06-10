@@ -1,1 +1,1 @@
-Segue teste de uma simples teste de automatização no linkedin.
+Segue uma simples teste de automatização no linkedin.
